@@ -10,4 +10,6 @@ hello world!
 hello world!
 hello world!
 hello world! master text.
+hello world! hot-fix second test.
+hello world!
 hello world! hot-fix test.
